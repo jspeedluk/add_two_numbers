@@ -3,8 +3,7 @@ using namespace std;
 
 int main(){
 	int a,b;
-
-	// your code
-
+	cin>>a>>b;
+	cout<<"Sum of "<<a<<" and "<<b<<" is "<<a+b<<endl;
 	return 0;
 }
